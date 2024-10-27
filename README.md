@@ -1,4 +1,4 @@
-# iterm-startup-script
+# iterm2-startup-script
 
 Startup script for iterm2. 
 
